@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  width: 200px;
+  border: 1px solid #eeeeee;
+  border-collapse: collapse;
+}
+
+.table tr th, .table tr td {
+  border: 1px solid #eeeeee;
+  padding: 10px 20px;
+}
